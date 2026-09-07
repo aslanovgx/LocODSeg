@@ -1,0 +1,7 @@
+scene,frame,sam_segments,final_detections,building,car,tree,other,mean_confidence
+dronestock_central_park,frame_20,5,2,0,0,1,1,0.715
+dronestock_central_park,frame_50,6,2,0,0,0,2,0.67
+dronestock_central_park,frame_80,5,1,0,0,0,1,0.6
+dronestock_suburbs,frame_20,13,6,0,0,6,0,0.8583
+dronestock_suburbs,frame_50,26,14,0,0,8,6,0.765
+dronestock_suburbs,frame_80,21,10,0,0,5,5,0.729

@@ -1,0 +1,227 @@
+[
+  {
+    "segment_id": 0,
+    "class_name": "building",
+    "confidence": 0.5
+  },
+  {
+    "segment_id": 1,
+    "class_name": "car",
+    "confidence": 0.96
+  },
+  {
+    "segment_id": 2,
+    "class_name": "building",
+    "confidence": 0.38
+  },
+  {
+    "segment_id": 3,
+    "class_name": "other",
+    "confidence": 0.43
+  },
+  {
+    "segment_id": 4,
+    "class_name": "other",
+    "confidence": 0.6
+  },
+  {
+    "segment_id": 5,
+    "class_name": "car",
+    "confidence": 0.96
+  },
+  {
+    "segment_id": 6,
+    "class_name": "other",
+    "confidence": 0.56
+  },
+  {
+    "segment_id": 7,
+    "class_name": "car",
+    "confidence": 0.74
+  },
+  {
+    "segment_id": 8,
+    "class_name": "car",
+    "confidence": 0.85
+  },
+  {
+    "segment_id": 9,
+    "class_name": "car",
+    "confidence": 0.97
+  },
+  {
+    "segment_id": 10,
+    "class_name": "car",
+    "confidence": 0.98
+  },
+  {
+    "segment_id": 11,
+    "class_name": "car",
+    "confidence": 0.87
+  },
+  {
+    "segment_id": 12,
+    "class_name": "building",
+    "confidence": 0.55
+  },
+  {
+    "segment_id": 13,
+    "class_name": "car",
+    "confidence": 0.35
+  },
+  {
+    "segment_id": 14,
+    "class_name": "car",
+    "confidence": 0.93
+  },
+  {
+    "segment_id": 15,
+    "class_name": "car",
+    "confidence": 0.97
+  },
+  {
+    "segment_id": 16,
+    "class_name": "building",
+    "confidence": 0.58
+  },
+  {
+    "segment_id": 17,
+    "class_name": "car",
+    "confidence": 0.95
+  },
+  {
+    "segment_id": 18,
+    "class_name": "car",
+    "confidence": 0.96
+  },
+  {
+    "segment_id": 19,
+    "class_name": "car",
+    "confidence": 0.54
+  },
+  {
+    "segment_id": 20,
+    "class_name": "other",
+    "confidence": 0.49
+  },
+  {
+    "segment_id": 21,
+    "class_name": "car",
+    "confidence": 0.81
+  },
+  {
+    "segment_id": 22,
+    "class_name": "car",
+    "confidence": 0.72
+  },
+  {
+    "segment_id": 23,
+    "class_name": "other",
+    "confidence": 0.64
+  },
+  {
+    "segment_id": 24,
+    "class_name": "car",
+    "confidence": 0.99
+  },
+  {
+    "segment_id": 25,
+    "class_name": "other",
+    "confidence": 0.52
+  },
+  {
+    "segment_id": 26,
+    "class_name": "other",
+    "confidence": 0.6
+  },
+  {
+    "segment_id": 27,
+    "class_name": "car",
+    "confidence": 0.52
+  },
+  {
+    "segment_id": 28,
+    "class_name": "other",
+    "confidence": 0.44
+  },
+  {
+    "segment_id": 29,
+    "class_name": "building",
+    "confidence": 0.53
+  },
+  {
+    "segment_id": 30,
+    "class_name": "building",
+    "confidence": 0.46
+  },
+  {
+    "segment_id": 31,
+    "class_name": "other",
+    "confidence": 0.51
+  },
+  {
+    "segment_id": 32,
+    "class_name": "other",
+    "confidence": 0.59
+  },
+  {
+    "segment_id": 33,
+    "class_name": "building",
+    "confidence": 0.48
+  },
+  {
+    "segment_id": 34,
+    "class_name": "other",
+    "confidence": 0.61
+  },
+  {
+    "segment_id": 35,
+    "class_name": "other",
+    "confidence": 0.45
+  },
+  {
+    "segment_id": 36,
+    "class_name": "other",
+    "confidence": 0.51
+  },
+  {
+    "segment_id": 37,
+    "class_name": "other",
+    "confidence": 0.63
+  },
+  {
+    "segment_id": 38,
+    "class_name": "car",
+    "confidence": 0.49
+  },
+  {
+    "segment_id": 39,
+    "class_name": "other",
+    "confidence": 0.64
+  },
+  {
+    "segment_id": 40,
+    "class_name": "car",
+    "confidence": 0.99
+  },
+  {
+    "segment_id": 41,
+    "class_name": "other",
+    "confidence": 0.82
+  },
+  {
+    "segment_id": 42,
+    "class_name": "building",
+    "confidence": 0.67
+  },
+  {
+    "segment_id": 43,
+    "class_name": "car",
+    "confidence": 0.96
+  },
+  {
+    "segment_id": 44,
+    "class_name": "other",
+    "confidence": 0.56
+  }
+]

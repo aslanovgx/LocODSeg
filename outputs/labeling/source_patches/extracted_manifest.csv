@@ -1,0 +1,13 @@
+patch_id,source_index,source_filename,split,tile_row,tile_column,x,y,width,height,focus,patch_path,status
+train_04_r1c0,4,211021_181636_464.jpg,train,1,0,0,3168,3168,3168,building_tree,/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/train/train_04_r1c0/source.jpg,written
+train_04_r1c1,4,211021_181636_464.jpg,train,1,1,3168,3168,3168,3168,building,/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/train/train_04_r1c1/source.jpg,written
+train_05_r0c0,5,211021_181725_897.jpg,train,0,0,0,0,3168,3168,tree,/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/train/train_05_r0c0/source.jpg,written
+train_05_r1c1,5,211021_181725_897.jpg,train,1,1,3168,3168,3168,3168,building_tree,/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/train/train_05_r1c1/source.jpg,written
+train_09_r0c1,9,211021_182010_331.jpg,train,0,1,3168,0,3168,3168,building,/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/train/train_09_r0c1/source.jpg,written
+train_16_r0c1,16,211021_182519_040.jpg,train,0,1,3168,0,3168,3168,building_tree,/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/train/train_16_r0c1/source.jpg,written
+validation_02_r0c2,2,211021_181455_147.jpg,validation,0,2,6336,0,3168,3168,building_car,/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/validation/validation_02_r0c2/source.jpg,written
+validation_02_r1c1,2,211021_181455_147.jpg,validation,1,1,3168,3168,3168,3168,tree_other,/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/validation/validation_02_r1c1/source.jpg,written
+validation_07_r1c1,7,211021_181853_249.jpg,validation,1,1,3168,3168,3168,3168,building_car,/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/validation/validation_07_r1c1/source.jpg,written
+validation_23_r1c0,23,211021_183027_818.jpg,validation,1,0,0,3168,3168,3168,tree_car,/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/validation/validation_23_r1c0/source.jpg,written
+validation_23_r1c1,23,211021_183027_818.jpg,validation,1,1,3168,3168,3168,3168,building,/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/validation/validation_23_r1c1/source.jpg,written
+validation_28_r1c2,28,211021_183349_153.jpg,validation,1,2,6336,3168,3168,3168,tree_building,/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/validation/validation_28_r1c2/source.jpg,written

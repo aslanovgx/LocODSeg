@@ -1,0 +1,18 @@
+{
+  "image": "outputs/dronestock_frames/dronestock_central_park/frame_50.jpg",
+  "detections": [
+    {
+      "segment_id": 0,
+      "class_name": "tree",
+      "confidence": 0.7,
+      "bbox": {
+        "x": 0,
+        "y": 1022,
+        "width": 149,
+        "height": 57
+      },
+      "area": 6944,
+      "sam_score": 0.9433
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "image": "outputs/dronestock_frames/dronestock_suburbs/frame_80.jpg",
+  "detections": [
+    {
+      "segment_id": 1,
+      "class_name": "tree",
+      "confidence": 0.99,
+      "bbox": {
+        "x": 1742,
+        "y": 927,
+        "width": 177,
+        "height": 152
+      },
+      "area": 18945,
+      "sam_score": 0.9517
+    },
+    {
+      "segment_id": 6,
+      "class_name": "tree",
+      "confidence": 0.71,
+      "bbox": {
+        "x": 1165,
+        "y": 454,
+        "width": 181,
+        "height": 88
+      },
+      "area": 5825,
+      "sam_score": 0.9261
+    },
+    {
+      "segment_id": 7,
+      "class_name": "other",
+      "confidence": 0.63,
+      "bbox": {
+        "x": 1747,
+        "y": 935,
+        "width": 93,
+        "height": 67
+      },
+      "area": 5142,
+      "sam_score": 0.9247
+    },
+    {
+      "segment_id": 8,
+      "class_name": "other",
+      "confidence": 0.63,
+      "bbox": {
+        "x": 1286,
+        "y": 598,
+        "width": 86,
+        "height": 63
+      },
+      "area": 3567,
+      "sam_score": 0.9247
+    },
+    {
+      "segment_id": 10,
+      "class_name": "other",
+      "confidence": 0.9,
+      "bbox": {
+        "x": 639,
+        "y": 517,
+        "width": 127,
+        "height": 147
+      },
+      "area": 13107,
+      "sam_score": 0.9068
+    },
+    {
+      "segment_id": 11,
+      "class_name": "tree",
+      "confidence": 0.62,
+      "bbox": {
+        "x": 670,
+        "y": 0,
+        "width": 126,
+        "height": 59
+      },
+      "area": 5483,
+      "sam_score": 0.8994
+    },
+    {
+      "segment_id": 12,
+      "class_name": "tree",
+      "confidence": 0.64,
+      "bbox": {
+        "x": 1312,
+        "y": 347,
+        "width": 245,
+        "height": 132
+      },
+      "area": 18075,
+      "sam_score": 0.8957
+    },
+    {
+      "segment_id": 13,
+      "class_name": "other",
+      "confidence": 0.72,
+      "bbox": {
+        "x": 1095,
+        "y": 482,
+        "width": 155,
+        "height": 143
+      },
+      "area": 13994,
+      "sam_score": 0.8956
+    },
+    {
+      "segment_id": 15,
+      "class_name": "tree",
+      "confidence": 0.84,
+      "bbox": {
+        "x": 1183,
+        "y": 884,
+        "width": 186,
+        "height": 125
+      },
+      "area": 11408,
+      "sam_score": 0.8956
+    },
+    {
+      "segment_id": 17,
+      "class_name": "other",
+      "confidence": 0.61,
+      "bbox": {
+        "x": 650,
+        "y": 558,
+        "width": 97,
+        "height": 98
+      },
+      "area": 5777,
+      "sam_score": 0.8868
+    }
+  ]
+}

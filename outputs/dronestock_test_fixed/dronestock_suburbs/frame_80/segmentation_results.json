@@ -1,0 +1,254 @@
+[
+  {
+    "segment_id": 0,
+    "bbox": {
+      "x": 966,
+      "y": 669,
+      "width": 104,
+      "height": 123
+    },
+    "area": 8199,
+    "sam_score": 0.9559,
+    "crop_path": "outputs/dronestock_test_fixed/dronestock_suburbs/frame_80/crops/segment_0.png"
+  },
+  {
+    "segment_id": 1,
+    "bbox": {
+      "x": 1742,
+      "y": 927,
+      "width": 177,
+      "height": 152
+    },
+    "area": 18945,
+    "sam_score": 0.9517,
+    "crop_path": "outputs/dronestock_test_fixed/dronestock_suburbs/frame_80/crops/segment_1.png"
+  },
+  {
+    "segment_id": 2,
+    "bbox": {
+      "x": 1124,
+      "y": 689,
+      "width": 137,
+      "height": 163
+    },
+    "area": 14324,
+    "sam_score": 0.9443,
+    "crop_path": "outputs/dronestock_test_fixed/dronestock_suburbs/frame_80/crops/segment_2.png"
+  },
+  {
+    "segment_id": 3,
+    "bbox": {
+      "x": 1835,
+      "y": 583,
+      "width": 84,
+      "height": 79
+    },
+    "area": 5231,
+    "sam_score": 0.9312,
+    "crop_path": "outputs/dronestock_test_fixed/dronestock_suburbs/frame_80/crops/segment_3.png"
+  },
+  {
+    "segment_id": 4,
+    "bbox": {
+      "x": 999,
+      "y": 962,
+      "width": 274,
+      "height": 117
+    },
+    "area": 17117,
+    "sam_score": 0.9303,
+    "crop_path": "outputs/dronestock_test_fixed/dronestock_suburbs/frame_80/crops/segment_4.png"
+  },
+  {
+    "segment_id": 5,
+    "bbox": {
+      "x": 1413,
+      "y": 428,
+      "width": 103,
+      "height": 112
+    },
+    "area": 8561,
+    "sam_score": 0.9265,
+    "crop_path": "outputs/dronestock_test_fixed/dronestock_suburbs/frame_80/crops/segment_5.png"
+  },
+  {
+    "segment_id": 6,
+    "bbox": {
+      "x": 1165,
+      "y": 454,
+      "width": 181,
+      "height": 88
+    },
+    "area": 5825,
+    "sam_score": 0.9261,
+    "crop_path": "outputs/dronestock_test_fixed/dronestock_suburbs/frame_80/crops/segment_6.png"
+  },
+  {
+    "segment_id": 7,
+    "bbox": {
+      "x": 1747,
+      "y": 935,
+      "width": 93,
+      "height": 67
+    },
+    "area": 5142,
+    "sam_score": 0.9247,
+    "crop_path": "outputs/dronestock_test_fixed/dronestock_suburbs/frame_80/crops/segment_7.png"
+  },
+  {
+    "segment_id": 8,
+    "bbox": {
+      "x": 1286,
+      "y": 598,
+      "width": 86,
+      "height": 63
+    },
+    "area": 3567,
+    "sam_score": 0.9247,
+    "crop_path": "outputs/dronestock_test_fixed/dronestock_suburbs/frame_80/crops/segment_8.png"
+  },
+  {
+    "segment_id": 9,
+    "bbox": {
+      "x": 925,
+      "y": 436,
+      "width": 88,
+      "height": 132
+    },
+    "area": 4225,
+    "sam_score": 0.9072,
+    "crop_path": "outputs/dronestock_test_fixed/dronestock_suburbs/frame_80/crops/segment_9.png"
+  },
+  {
+    "segment_id": 10,
+    "bbox": {
+      "x": 639,
+      "y": 517,
+      "width": 127,
+      "height": 147
+    },
+    "area": 13107,
+    "sam_score": 0.9068,
+    "crop_path": "outputs/dronestock_test_fixed/dronestock_suburbs/frame_80/crops/segment_10.png"
+  },
+  {
+    "segment_id": 11,
+    "bbox": {
+      "x": 670,
+      "y": 0,
+      "width": 126,
+      "height": 59
+    },
+    "area": 5483,
+    "sam_score": 0.8994,
+    "crop_path": "outputs/dronestock_test_fixed/dronestock_suburbs/frame_80/crops/segment_11.png"
+  },
+  {
+    "segment_id": 12,
+    "bbox": {
+      "x": 1312,
+      "y": 347,
+      "width": 245,
+      "height": 132
+    },
+    "area": 18075,
+    "sam_score": 0.8957,
+    "crop_path": "outputs/dronestock_test_fixed/dronestock_suburbs/frame_80/crops/segment_12.png"
+  },
+  {
+    "segment_id": 13,
+    "bbox": {
+      "x": 1095,
+      "y": 482,
+      "width": 155,
+      "height": 143
+    },
+    "area": 13994,
+    "sam_score": 0.8956,
+    "crop_path": "outputs/dronestock_test_fixed/dronestock_suburbs/frame_80/crops/segment_13.png"
+  },
+  {
+    "segment_id": 14,
+    "bbox": {
+      "x": 1521,
+      "y": 398,
+      "width": 91,
+      "height": 92
+    },
+    "area": 5124,
+    "sam_score": 0.8956,
+    "crop_path": "outputs/dronestock_test_fixed/dronestock_suburbs/frame_80/crops/segment_14.png"
+  },
+  {
+    "segment_id": 15,
+    "bbox": {
+      "x": 1183,
+      "y": 884,
+      "width": 186,
+      "height": 125
+    },
+    "area": 11408,
+    "sam_score": 0.8956,
+    "crop_path": "outputs/dronestock_test_fixed/dronestock_suburbs/frame_80/crops/segment_15.png"
+  },
+  {
+    "segment_id": 16,
+    "bbox": {
+      "x": 0,
+      "y": 110,
+      "width": 43,
+      "height": 62
+    },
+    "area": 1916,
+    "sam_score": 0.8894,
+    "crop_path": "outputs/dronestock_test_fixed/dronestock_suburbs/frame_80/crops/segment_16.png"
+  },
+  {
+    "segment_id": 17,
+    "bbox": {
+      "x": 650,
+      "y": 558,
+      "width": 97,
+      "height": 98
+    },
+    "area": 5777,
+    "sam_score": 0.8868,
+    "crop_path": "outputs/dronestock_test_fixed/dronestock_suburbs/frame_80/crops/segment_17.png"
+  },
+  {
+    "segment_id": 18,
+    "bbox": {
+      "x": 301,
+      "y": 1024,
+      "width": 66,
+      "height": 55
+    },
+    "area": 2623,
+    "sam_score": 0.8716,
+    "crop_path": "outputs/dronestock_test_fixed/dronestock_suburbs/frame_80/crops/segment_18.png"
+  },
+  {
+    "segment_id": 19,
+    "bbox": {
+      "x": 906,
+      "y": 1030,
+      "width": 66,
+      "height": 49
+    },
+    "area": 2249,
+    "sam_score": 0.8715,
+    "crop_path": "outputs/dronestock_test_fixed/dronestock_suburbs/frame_80/crops/segment_19.png"
+  },
+  {
+    "segment_id": 20,
+    "bbox": {
+      "x": 1329,
+      "y": 101,
+      "width": 359,
+      "height": 159
+    },
+    "area": 34280,
+    "sam_score": 0.8516,
+    "crop_path": "outputs/dronestock_test_fixed/dronestock_suburbs/frame_80/crops/segment_20.png"
+  }
+]

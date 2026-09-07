@@ -1,0 +1,314 @@
+[
+  {
+    "segment_id": 0,
+    "bbox": {
+      "x": 1873,
+      "y": 1245,
+      "width": 324,
+      "height": 623
+    },
+    "area": 153324,
+    "sam_score": 0.9859,
+    "crop_path": "/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/validation/validation_28_r1c2/crops/segment_0.png"
+  },
+  {
+    "segment_id": 1,
+    "bbox": {
+      "x": 1679,
+      "y": 876,
+      "width": 316,
+      "height": 279
+    },
+    "area": 78235,
+    "sam_score": 0.9828,
+    "crop_path": "/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/validation/validation_28_r1c2/crops/segment_1.png"
+  },
+  {
+    "segment_id": 2,
+    "bbox": {
+      "x": 1833,
+      "y": 0,
+      "width": 293,
+      "height": 100
+    },
+    "area": 28440,
+    "sam_score": 0.9819,
+    "crop_path": "/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/validation/validation_28_r1c2/crops/segment_2.png"
+  },
+  {
+    "segment_id": 3,
+    "bbox": {
+      "x": 1445,
+      "y": 2921,
+      "width": 931,
+      "height": 246
+    },
+    "area": 147017,
+    "sam_score": 0.9799,
+    "crop_path": "/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/validation/validation_28_r1c2/crops/segment_3.png"
+  },
+  {
+    "segment_id": 4,
+    "bbox": {
+      "x": 2173,
+      "y": 1120,
+      "width": 994,
+      "height": 888
+    },
+    "area": 857343,
+    "sam_score": 0.9761,
+    "crop_path": "/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/validation/validation_28_r1c2/crops/segment_4.png"
+  },
+  {
+    "segment_id": 5,
+    "bbox": {
+      "x": 2074,
+      "y": 479,
+      "width": 80,
+      "height": 449
+    },
+    "area": 27436,
+    "sam_score": 0.9744,
+    "crop_path": "/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/validation/validation_28_r1c2/crops/segment_5.png"
+  },
+  {
+    "segment_id": 6,
+    "bbox": {
+      "x": 1518,
+      "y": 0,
+      "width": 124,
+      "height": 309
+    },
+    "area": 35297,
+    "sam_score": 0.9744,
+    "crop_path": "/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/validation/validation_28_r1c2/crops/segment_6.png"
+  },
+  {
+    "segment_id": 7,
+    "bbox": {
+      "x": 1685,
+      "y": 1242,
+      "width": 201,
+      "height": 612
+    },
+    "area": 95404,
+    "sam_score": 0.9736,
+    "crop_path": "/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/validation/validation_28_r1c2/crops/segment_7.png"
+  },
+  {
+    "segment_id": 8,
+    "bbox": {
+      "x": 1219,
+      "y": 889,
+      "width": 402,
+      "height": 499
+    },
+    "area": 115615,
+    "sam_score": 0.9693,
+    "crop_path": "/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/validation/validation_28_r1c2/crops/segment_8.png"
+  },
+  {
+    "segment_id": 9,
+    "bbox": {
+      "x": 1273,
+      "y": 626,
+      "width": 72,
+      "height": 90
+    },
+    "area": 6205,
+    "sam_score": 0.967,
+    "crop_path": "/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/validation/validation_28_r1c2/crops/segment_9.png"
+  },
+  {
+    "segment_id": 10,
+    "bbox": {
+      "x": 1656,
+      "y": 183,
+      "width": 284,
+      "height": 310
+    },
+    "area": 78406,
+    "sam_score": 0.9664,
+    "crop_path": "/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/validation/validation_28_r1c2/crops/segment_10.png"
+  },
+  {
+    "segment_id": 11,
+    "bbox": {
+      "x": 1276,
+      "y": 2065,
+      "width": 507,
+      "height": 537
+    },
+    "area": 190342,
+    "sam_score": 0.9627,
+    "crop_path": "/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/validation/validation_28_r1c2/crops/segment_11.png"
+  },
+  {
+    "segment_id": 12,
+    "bbox": {
+      "x": 1681,
+      "y": 1152,
+      "width": 287,
+      "height": 87
+    },
+    "area": 22329,
+    "sam_score": 0.9608,
+    "crop_path": "/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/validation/validation_28_r1c2/crops/segment_12.png"
+  },
+  {
+    "segment_id": 13,
+    "bbox": {
+      "x": 1548,
+      "y": 1120,
+      "width": 144,
+      "height": 942
+    },
+    "area": 123023,
+    "sam_score": 0.9555,
+    "crop_path": "/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/validation/validation_28_r1c2/crops/segment_13.png"
+  },
+  {
+    "segment_id": 14,
+    "bbox": {
+      "x": 288,
+      "y": 1697,
+      "width": 96,
+      "height": 154
+    },
+    "area": 11997,
+    "sam_score": 0.9552,
+    "crop_path": "/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/validation/validation_28_r1c2/crops/segment_14.png"
+  },
+  {
+    "segment_id": 15,
+    "bbox": {
+      "x": 1648,
+      "y": 0,
+      "width": 186,
+      "height": 100
+    },
+    "area": 17945,
+    "sam_score": 0.9519,
+    "crop_path": "/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/validation/validation_28_r1c2/crops/segment_15.png"
+  },
+  {
+    "segment_id": 16,
+    "bbox": {
+      "x": 2128,
+      "y": 0,
+      "width": 90,
+      "height": 105
+    },
+    "area": 7856,
+    "sam_score": 0.9505,
+    "crop_path": "/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/validation/validation_28_r1c2/crops/segment_16.png"
+  },
+  {
+    "segment_id": 17,
+    "bbox": {
+      "x": 658,
+      "y": 296,
+      "width": 76,
+      "height": 50
+    },
+    "area": 2791,
+    "sam_score": 0.9472,
+    "crop_path": "/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/validation/validation_28_r1c2/crops/segment_17.png"
+  },
+  {
+    "segment_id": 18,
+    "bbox": {
+      "x": 1020,
+      "y": 1120,
+      "width": 534,
+      "height": 970
+    },
+    "area": 374315,
+    "sam_score": 0.9418,
+    "crop_path": "/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/validation/validation_28_r1c2/crops/segment_18.png"
+  },
+  {
+    "segment_id": 19,
+    "bbox": {
+      "x": 1316,
+      "y": 3101,
+      "width": 120,
+      "height": 66
+    },
+    "area": 4184,
+    "sam_score": 0.936,
+    "crop_path": "/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/validation/validation_28_r1c2/crops/segment_19.png"
+  },
+  {
+    "segment_id": 20,
+    "bbox": {
+      "x": 1547,
+      "y": 506,
+      "width": 122,
+      "height": 167
+    },
+    "area": 17850,
+    "sam_score": 0.9267,
+    "crop_path": "/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/validation/validation_28_r1c2/crops/segment_20.png"
+  },
+  {
+    "segment_id": 21,
+    "bbox": {
+      "x": 1984,
+      "y": 433,
+      "width": 40,
+      "height": 45
+    },
+    "area": 1673,
+    "sam_score": 0.9254,
+    "crop_path": "/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/validation/validation_28_r1c2/crops/segment_21.png"
+  },
+  {
+    "segment_id": 22,
+    "bbox": {
+      "x": 2907,
+      "y": 2040,
+      "width": 146,
+      "height": 54
+    },
+    "area": 4923,
+    "sam_score": 0.9178,
+    "crop_path": "/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/validation/validation_28_r1c2/crops/segment_22.png"
+  },
+  {
+    "segment_id": 23,
+    "bbox": {
+      "x": 1539,
+      "y": 438,
+      "width": 53,
+      "height": 45
+    },
+    "area": 1805,
+    "sam_score": 0.9068,
+    "crop_path": "/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/validation/validation_28_r1c2/crops/segment_23.png"
+  },
+  {
+    "segment_id": 24,
+    "bbox": {
+      "x": 177,
+      "y": 2525,
+      "width": 40,
+      "height": 201
+    },
+    "area": 6578,
+    "sam_score": 0.8944,
+    "crop_path": "/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/validation/validation_28_r1c2/crops/segment_24.png"
+  },
+  {
+    "segment_id": 25,
+    "bbox": {
+      "x": 1272,
+      "y": 519,
+      "width": 277,
+      "height": 366
+    },
+    "area": 94615,
+    "sam_score": 0.8622,
+    "crop_path": "/Users/aslanovgx/Desktop/drone-research/outputs/labeling/source_patches/validation/validation_28_r1c2/crops/segment_25.png"
+  }
+]

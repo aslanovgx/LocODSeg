@@ -1,0 +1,146 @@
+[
+  {
+    "segment_id": 0,
+    "bbox": {
+      "x": 102,
+      "y": 648,
+      "width": 69,
+      "height": 34
+    },
+    "area": 1887,
+    "sam_score": 0.9541,
+    "crop_path": "outputs/crops/segment_0.png"
+  },
+  {
+    "segment_id": 1,
+    "bbox": {
+      "x": 557,
+      "y": 162,
+      "width": 157,
+      "height": 368
+    },
+    "area": 50500,
+    "sam_score": 0.9521,
+    "crop_path": "outputs/crops/segment_1.png"
+  },
+  {
+    "segment_id": 2,
+    "bbox": {
+      "x": 910,
+      "y": 91,
+      "width": 113,
+      "height": 97
+    },
+    "area": 9259,
+    "sam_score": 0.949,
+    "crop_path": "outputs/crops/segment_2.png"
+  },
+  {
+    "segment_id": 3,
+    "bbox": {
+      "x": 879,
+      "y": 603,
+      "width": 144,
+      "height": 48
+    },
+    "area": 5767,
+    "sam_score": 0.9399,
+    "crop_path": "outputs/crops/segment_3.png"
+  },
+  {
+    "segment_id": 4,
+    "bbox": {
+      "x": 972,
+      "y": 37,
+      "width": 51,
+      "height": 65
+    },
+    "area": 2348,
+    "sam_score": 0.9341,
+    "crop_path": "outputs/crops/segment_4.png"
+  },
+  {
+    "segment_id": 5,
+    "bbox": {
+      "x": 906,
+      "y": 185,
+      "width": 117,
+      "height": 335
+    },
+    "area": 34314,
+    "sam_score": 0.926,
+    "crop_path": "outputs/crops/segment_5.png"
+  },
+  {
+    "segment_id": 6,
+    "bbox": {
+      "x": 557,
+      "y": 162,
+      "width": 112,
+      "height": 40
+    },
+    "area": 2065,
+    "sam_score": 0.9172,
+    "crop_path": "outputs/crops/segment_6.png"
+  },
+  {
+    "segment_id": 7,
+    "bbox": {
+      "x": 554,
+      "y": 3,
+      "width": 120,
+      "height": 49
+    },
+    "area": 4605,
+    "sam_score": 0.909,
+    "crop_path": "outputs/crops/segment_7.png"
+  },
+  {
+    "segment_id": 8,
+    "bbox": {
+      "x": 828,
+      "y": 603,
+      "width": 37,
+      "height": 51
+    },
+    "area": 1590,
+    "sam_score": 0.9057,
+    "crop_path": "outputs/crops/segment_8.png"
+  },
+  {
+    "segment_id": 9,
+    "bbox": {
+      "x": 149,
+      "y": 67,
+      "width": 81,
+      "height": 32
+    },
+    "area": 1992,
+    "sam_score": 0.8863,
+    "crop_path": "outputs/crops/segment_9.png"
+  },
+  {
+    "segment_id": 10,
+    "bbox": {
+      "x": 905,
+      "y": 411,
+      "width": 22,
+      "height": 87
+    },
+    "area": 1709,
+    "sam_score": 0.8763,
+    "crop_path": "outputs/crops/segment_10.png"
+  },
+  {
+    "segment_id": 11,
+    "bbox": {
+      "x": 577,
+      "y": 93,
+      "width": 44,
+      "height": 61
+    },
+    "area": 1990,
+    "sam_score": 0.8511,
+    "crop_path": "outputs/crops/segment_11.png"
+  }
+]

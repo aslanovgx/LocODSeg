@@ -1,0 +1,31 @@
+{
+  "image": "data/sample/arcgis_sample.jpg",
+  "detections": [
+    {
+      "segment_id": 1,
+      "class_name": "building",
+      "confidence": 0.92,
+      "bbox": {
+        "x": 150,
+        "y": 180,
+        "width": 500,
+        "height": 350
+      },
+      "area": 120000,
+      "sam_score": 0.94
+    },
+    {
+      "segment_id": 2,
+      "class_name": "tree",
+      "confidence": 0.87,
+      "bbox": {
+        "x": 900,
+        "y": 250,
+        "width": 300,
+        "height": 400
+      },
+      "area": 85000,
+      "sam_score": 0.91
+    }
+  ]
+}

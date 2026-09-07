@@ -1,0 +1,187 @@
+{
+  "image": "outputs/dronestock_frames/dronestock_suburbs/frame_50.jpg",
+  "detections": [
+    {
+      "segment_id": 1,
+      "class_name": "tree",
+      "confidence": 0.97,
+      "bbox": {
+        "x": 0,
+        "y": 822,
+        "width": 632,
+        "height": 257
+      },
+      "area": 92041,
+      "sam_score": 0.9511
+    },
+    {
+      "segment_id": 2,
+      "class_name": "tree",
+      "confidence": 0.66,
+      "bbox": {
+        "x": 478,
+        "y": 0,
+        "width": 356,
+        "height": 232
+      },
+      "area": 40700,
+      "sam_score": 0.95
+    },
+    {
+      "segment_id": 4,
+      "class_name": "other",
+      "confidence": 0.62,
+      "bbox": {
+        "x": 1834,
+        "y": 184,
+        "width": 85,
+        "height": 117
+      },
+      "area": 7300,
+      "sam_score": 0.9407
+    },
+    {
+      "segment_id": 6,
+      "class_name": "tree",
+      "confidence": 0.96,
+      "bbox": {
+        "x": 490,
+        "y": 395,
+        "width": 151,
+        "height": 206
+      },
+      "area": 23933,
+      "sam_score": 0.9309
+    },
+    {
+      "segment_id": 7,
+      "class_name": "other",
+      "confidence": 0.71,
+      "bbox": {
+        "x": 910,
+        "y": 135,
+        "width": 156,
+        "height": 124
+      },
+      "area": 12069,
+      "sam_score": 0.9279
+    },
+    {
+      "segment_id": 8,
+      "class_name": "other",
+      "confidence": 0.61,
+      "bbox": {
+        "x": 476,
+        "y": 162,
+        "width": 187,
+        "height": 125
+      },
+      "area": 10558,
+      "sam_score": 0.9263
+    },
+    {
+      "segment_id": 9,
+      "class_name": "tree",
+      "confidence": 0.81,
+      "bbox": {
+        "x": 1571,
+        "y": 1009,
+        "width": 113,
+        "height": 70
+      },
+      "area": 6317,
+      "sam_score": 0.9259
+    },
+    {
+      "segment_id": 10,
+      "class_name": "other",
+      "confidence": 0.64,
+      "bbox": {
+        "x": 583,
+        "y": 717,
+        "width": 148,
+        "height": 129
+      },
+      "area": 10113,
+      "sam_score": 0.925
+    },
+    {
+      "segment_id": 13,
+      "class_name": "tree",
+      "confidence": 0.86,
+      "bbox": {
+        "x": 118,
+        "y": 0,
+        "width": 185,
+        "height": 125
+      },
+      "area": 17083,
+      "sam_score": 0.9166
+    },
+    {
+      "segment_id": 14,
+      "class_name": "tree",
+      "confidence": 0.73,
+      "bbox": {
+        "x": 994,
+        "y": 0,
+        "width": 187,
+        "height": 84
+      },
+      "area": 8372,
+      "sam_score": 0.9124
+    },
+    {
+      "segment_id": 17,
+      "class_name": "tree",
+      "confidence": 0.87,
+      "bbox": {
+        "x": 698,
+        "y": 592,
+        "width": 70,
+        "height": 87
+      },
+      "area": 4127,
+      "sam_score": 0.8961
+    },
+    {
+      "segment_id": 21,
+      "class_name": "other",
+      "confidence": 0.67,
+      "bbox": {
+        "x": 370,
+        "y": 444,
+        "width": 151,
+        "height": 170
+      },
+      "area": 15171,
+      "sam_score": 0.8561
+    },
+    {
+      "segment_id": 23,
+      "class_name": "other",
+      "confidence": 0.65,
+      "bbox": {
+        "x": 1603,
+        "y": 368,
+        "width": 128,
+        "height": 129
+      },
+      "area": 13110,
+      "sam_score": 0.8399
+    },
+    {
+      "segment_id": 25,
+      "class_name": "tree",
+      "confidence": 0.95,
+      "bbox": {
+        "x": 1399,
+        "y": 419,
+        "width": 161,
+        "height": 120
+      },
+      "area": 14612,
+      "sam_score": 0.8198
+    }
+  ]
+}

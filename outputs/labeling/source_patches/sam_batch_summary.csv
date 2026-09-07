@@ -1,0 +1,13 @@
+patch_id,split,status,mask_count,segment_count,seconds
+train_04_r1c0,train,written,47,47,514.81
+train_04_r1c1,train,written,102,102,601.85
+train_05_r0c0,train,skipped,,,
+train_05_r1c1,train,skipped,,,
+train_09_r0c1,train,written,19,19,691.12
+train_16_r0c1,train,written,47,47,791.53
+validation_02_r0c2,validation,written,45,45,736.0
+validation_02_r1c1,validation,written,47,47,1050.92
+validation_07_r1c1,validation,written,48,48,680.95
+validation_23_r1c0,validation,written,21,21,1068.62
+validation_23_r1c1,validation,written,38,38,1003.31
+validation_28_r1c2,validation,written,26,26,860.75

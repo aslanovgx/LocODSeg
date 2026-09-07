@@ -1,0 +1,382 @@
+{
+  "image": "outputs/final_test/test_21_candidates/test_21_r1c2.jpg",
+  "detections": [
+    {
+      "segment_id": 2,
+      "class_name": "car",
+      "confidence": 0.93,
+      "bbox": {
+        "x": 254,
+        "y": 1632,
+        "width": 114,
+        "height": 240
+      },
+      "area": 25189,
+      "sam_score": 0.9791
+    },
+    {
+      "segment_id": 13,
+      "class_name": "other",
+      "confidence": 0.79,
+      "bbox": {
+        "x": 776,
+        "y": 927,
+        "width": 63,
+        "height": 82
+      },
+      "area": 4727,
+      "sam_score": 0.9671
+    },
+    {
+      "segment_id": 16,
+      "class_name": "other",
+      "confidence": 0.6,
+      "bbox": {
+        "x": 1673,
+        "y": 0,
+        "width": 1153,
+        "height": 1376
+      },
+      "area": 1325223,
+      "sam_score": 0.9647
+    },
+    {
+      "segment_id": 17,
+      "class_name": "car",
+      "confidence": 0.68,
+      "bbox": {
+        "x": 137,
+        "y": 0,
+        "width": 156,
+        "height": 100
+      },
+      "area": 9506,
+      "sam_score": 0.9644
+    },
+    {
+      "segment_id": 18,
+      "class_name": "car",
+      "confidence": 0.62,
+      "bbox": {
+        "x": 132,
+        "y": 253,
+        "width": 184,
+        "height": 380
+      },
+      "area": 34564,
+      "sam_score": 0.9631
+    },
+    {
+      "segment_id": 21,
+      "class_name": "other",
+      "confidence": 0.66,
+      "bbox": {
+        "x": 822,
+        "y": 1312,
+        "width": 96,
+        "height": 69
+      },
+      "area": 5859,
+      "sam_score": 0.9615
+    },
+    {
+      "segment_id": 24,
+      "class_name": "other",
+      "confidence": 0.61,
+      "bbox": {
+        "x": 1725,
+        "y": 157,
+        "width": 55,
+        "height": 115
+      },
+      "area": 5322,
+      "sam_score": 0.959
+    },
+    {
+      "segment_id": 25,
+      "class_name": "car",
+      "confidence": 0.98,
+      "bbox": {
+        "x": 240,
+        "y": 1202,
+        "width": 126,
+        "height": 311
+      },
+      "area": 34658,
+      "sam_score": 0.9585
+    },
+    {
+      "segment_id": 26,
+      "class_name": "car",
+      "confidence": 0.87,
+      "bbox": {
+        "x": 166,
+        "y": 1207,
+        "width": 108,
+        "height": 319
+      },
+      "area": 19891,
+      "sam_score": 0.9581
+    },
+    {
+      "segment_id": 27,
+      "class_name": "car",
+      "confidence": 0.64,
+      "bbox": {
+        "x": 177,
+        "y": 1637,
+        "width": 104,
+        "height": 243
+      },
+      "area": 15856,
+      "sam_score": 0.9543
+    },
+    {
+      "segment_id": 28,
+      "class_name": "car",
+      "confidence": 0.6,
+      "bbox": {
+        "x": 232,
+        "y": 0,
+        "width": 120,
+        "height": 72
+      },
+      "area": 7981,
+      "sam_score": 0.953
+    },
+    {
+      "segment_id": 30,
+      "class_name": "other",
+      "confidence": 0.71,
+      "bbox": {
+        "x": 1968,
+        "y": 2169,
+        "width": 67,
+        "height": 51
+      },
+      "area": 2642,
+      "sam_score": 0.9509
+    },
+    {
+      "segment_id": 31,
+      "class_name": "other",
+      "confidence": 0.6,
+      "bbox": {
+        "x": 2541,
+        "y": 1801,
+        "width": 127,
+        "height": 83
+      },
+      "area": 4347,
+      "sam_score": 0.9497
+    },
+    {
+      "segment_id": 32,
+      "class_name": "car",
+      "confidence": 0.99,
+      "bbox": {
+        "x": 731,
+        "y": 182,
+        "width": 292,
+        "height": 114
+      },
+      "area": 30836,
+      "sam_score": 0.9494
+    },
+    {
+      "segment_id": 33,
+      "class_name": "car",
+      "confidence": 0.74,
+      "bbox": {
+        "x": 926,
+        "y": 921,
+        "width": 52,
+        "height": 97
+      },
+      "area": 4242,
+      "sam_score": 0.9471
+    },
+    {
+      "segment_id": 36,
+      "class_name": "other",
+      "confidence": 0.61,
+      "bbox": {
+        "x": 256,
+        "y": 486,
+        "width": 119,
+        "height": 121
+      },
+      "area": 13428,
+      "sam_score": 0.9454
+    },
+    {
+      "segment_id": 37,
+      "class_name": "other",
+      "confidence": 0.6,
+      "bbox": {
+        "x": 664,
+        "y": 1313,
+        "width": 79,
+        "height": 119
+      },
+      "area": 6155,
+      "sam_score": 0.9439
+    },
+    {
+      "segment_id": 45,
+      "class_name": "car",
+      "confidence": 0.76,
+      "bbox": {
+        "x": 261,
+        "y": 2443,
+        "width": 138,
+        "height": 314
+      },
+      "area": 40174,
+      "sam_score": 0.9243
+    },
+    {
+      "segment_id": 48,
+      "class_name": "car",
+      "confidence": 0.99,
+      "bbox": {
+        "x": 705,
+        "y": 1420,
+        "width": 302,
+        "height": 125
+      },
+      "area": 30155,
+      "sam_score": 0.9193
+    },
+    {
+      "segment_id": 50,
+      "class_name": "other",
+      "confidence": 0.61,
+      "bbox": {
+        "x": 670,
+        "y": 2075,
+        "width": 44,
+        "height": 43
+      },
+      "area": 1669,
+      "sam_score": 0.9109
+    },
+    {
+      "segment_id": 51,
+      "class_name": "other",
+      "confidence": 0.65,
+      "bbox": {
+        "x": 2447,
+        "y": 1438,
+        "width": 53,
+        "height": 48
+      },
+      "area": 2044,
+      "sam_score": 0.9098
+    },
+    {
+      "segment_id": 52,
+      "class_name": "car",
+      "confidence": 1.0,
+      "bbox": {
+        "x": 698,
+        "y": 0,
+        "width": 349,
+        "height": 155
+      },
+      "area": 43083,
+      "sam_score": 0.9086
+    },
+    {
+      "segment_id": 53,
+      "class_name": "car",
+      "confidence": 0.99,
+      "bbox": {
+        "x": 856,
+        "y": 2609,
+        "width": 296,
+        "height": 168
+      },
+      "area": 39427,
+      "sam_score": 0.9075
+    },
+    {
+      "segment_id": 54,
+      "class_name": "car",
+      "confidence": 0.65,
+      "bbox": {
+        "x": 2718,
+        "y": 1435,
+        "width": 138,
+        "height": 155
+      },
+      "area": 18931,
+      "sam_score": 0.9035
+    },
+    {
+      "segment_id": 56,
+      "class_name": "car",
+      "confidence": 0.9,
+      "bbox": {
+        "x": 938,
+        "y": 744,
+        "width": 48,
+        "height": 92
+      },
+      "area": 3531,
+      "sam_score": 0.8969
+    },
+    {
+      "segment_id": 59,
+      "class_name": "car",
+      "confidence": 0.99,
+      "bbox": {
+        "x": 747,
+        "y": 2280,
+        "width": 322,
+        "height": 142
+      },
+      "area": 40665,
+      "sam_score": 0.8831
+    },
+    {
+      "segment_id": 60,
+      "class_name": "other",
+      "confidence": 0.61,
+      "bbox": {
+        "x": 2956,
+        "y": 2053,
+        "width": 83,
+        "height": 48
+      },
+      "area": 3385,
+      "sam_score": 0.8818
+    },
+    {
+      "segment_id": 61,
+      "class_name": "car",
+      "confidence": 0.99,
+      "bbox": {
+        "x": 720,
+        "y": 349,
+        "width": 315,
+        "height": 120
+      },
+      "area": 33979,
+      "sam_score": 0.8698
+    },
+    {
+      "segment_id": 62,
+      "class_name": "other",
+      "confidence": 0.61,
+      "bbox": {
+        "x": 1469,
+        "y": 1570,
+        "width": 130,
+        "height": 100
+      },
+      "area": 9272,
+      "sam_score": 0.8652
+    }
+  ]
+}

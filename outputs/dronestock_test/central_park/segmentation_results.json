@@ -1,0 +1,14 @@
+[
+  {
+    "segment_id": 0,
+    "bbox": {
+      "x": 0,
+      "y": 1022,
+      "width": 149,
+      "height": 57
+    },
+    "area": 6944,
+    "sam_score": 0.9433,
+    "crop_path": "outputs/dronestock_test/central_park/crops/segment_0.png"
+  }
+]

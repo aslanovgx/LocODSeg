@@ -1,0 +1,65 @@
+{
+  "checkpoint": "checkpoints/classifier.pt",
+  "samples": 203,
+  "correct": 145,
+  "accuracy": 0.7143,
+  "macro_f1": 0.756,
+  "classes": [
+    "building",
+    "car",
+    "other",
+    "tree"
+  ],
+  "per_class": {
+    "building": {
+      "support": 39,
+      "precision": 0.4203,
+      "recall": 0.7436,
+      "f1": 0.537
+    },
+    "car": {
+      "support": 25,
+      "precision": 0.8276,
+      "recall": 0.96,
+      "f1": 0.8889
+    },
+    "other": {
+      "support": 97,
+      "precision": 0.8281,
+      "recall": 0.5464,
+      "f1": 0.6584
+    },
+    "tree": {
+      "support": 42,
+      "precision": 0.9512,
+      "recall": 0.9286,
+      "f1": 0.9398
+    }
+  },
+  "confusion_matrix": {
+    "building": {
+      "building": 29,
+      "car": 0,
+      "other": 10,
+      "tree": 0
+    },
+    "car": {
+      "building": 1,
+      "car": 24,
+      "other": 0,
+      "tree": 0
+    },
+    "other": {
+      "building": 38,
+      "car": 4,
+      "other": 53,
+      "tree": 2
+    },
+    "tree": {
+      "building": 1,
+      "car": 1,
+      "other": 1,
+      "tree": 39
+    }
+  }
+}

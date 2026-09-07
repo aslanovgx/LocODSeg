@@ -1,0 +1,31 @@
+{
+  "image": "drone_image_001.jpg",
+  "detections": [
+    {
+      "segment_id": 1,
+      "class_name": "building",
+      "confidence": 0.92,
+      "bbox": {
+        "x": 100,
+        "y": 80,
+        "width": 250,
+        "height": 180
+      },
+      "area": 32500,
+      "sam_score": 0.94
+    },
+    {
+      "segment_id": 2,
+      "class_name": "tree",
+      "confidence": 0.88,
+      "bbox": {
+        "x": 400,
+        "y": 120,
+        "width": 130,
+        "height": 160
+      },
+      "area": 14200,
+      "sam_score": 0.9
+    }
+  ]
+}

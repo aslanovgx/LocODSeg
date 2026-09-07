@@ -1,0 +1,109 @@
+{
+  "image": "outputs/dronestock_frames/dronestock_suburbs/frame_50.jpg",
+  "detections": [
+    {
+      "segment_id": 0,
+      "class_name": "tree",
+      "confidence": 0.67,
+      "bbox": {
+        "x": 479,
+        "y": 0,
+        "width": 355,
+        "height": 232
+      },
+      "area": 40597,
+      "sam_score": 0.9586
+    },
+    {
+      "segment_id": 3,
+      "class_name": "other",
+      "confidence": 0.63,
+      "bbox": {
+        "x": 1834,
+        "y": 184,
+        "width": 85,
+        "height": 118
+      },
+      "area": 7328,
+      "sam_score": 0.9363
+    },
+    {
+      "segment_id": 5,
+      "class_name": "other",
+      "confidence": 0.71,
+      "bbox": {
+        "x": 910,
+        "y": 135,
+        "width": 156,
+        "height": 124
+      },
+      "area": 12080,
+      "sam_score": 0.9265
+    },
+    {
+      "segment_id": 6,
+      "class_name": "tree",
+      "confidence": 0.95,
+      "bbox": {
+        "x": 490,
+        "y": 394,
+        "width": 151,
+        "height": 206
+      },
+      "area": 23780,
+      "sam_score": 0.9251
+    },
+    {
+      "segment_id": 7,
+      "class_name": "tree",
+      "confidence": 0.87,
+      "bbox": {
+        "x": 1573,
+        "y": 1010,
+        "width": 111,
+        "height": 69
+      },
+      "area": 6055,
+      "sam_score": 0.9184
+    },
+    {
+      "segment_id": 8,
+      "class_name": "tree",
+      "confidence": 0.66,
+      "bbox": {
+        "x": 995,
+        "y": 0,
+        "width": 231,
+        "height": 84
+      },
+      "area": 8463,
+      "sam_score": 0.8972
+    },
+    {
+      "segment_id": 9,
+      "class_name": "other",
+      "confidence": 0.65,
+      "bbox": {
+        "x": 1602,
+        "y": 369,
+        "width": 131,
+        "height": 129
+      },
+      "area": 13279,
+      "sam_score": 0.8805
+    },
+    {
+      "segment_id": 10,
+      "class_name": "other",
+      "confidence": 0.68,
+      "bbox": {
+        "x": 369,
+        "y": 444,
+        "width": 152,
+        "height": 170
+      },
+      "area": 15104,
+      "sam_score": 0.8769
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "segment_id": 0,
+    "bbox": {
+      "x": 671,
+      "y": 689,
+      "width": 767,
+      "height": 390
+    },
+    "area": 162255,
+    "sam_score": 0.9539,
+    "crop_path": "outputs/dronestock_test_fixed/dronestock_central_park/frame_20/crops/segment_0.png"
+  },
+  {
+    "segment_id": 1,
+    "bbox": {
+      "x": 1514,
+      "y": 0,
+      "width": 158,
+      "height": 62
+    },
+    "area": 6754,
+    "sam_score": 0.9419,
+    "crop_path": "outputs/dronestock_test_fixed/dronestock_central_park/frame_20/crops/segment_1.png"
+  },
+  {
+    "segment_id": 2,
+    "bbox": {
+      "x": 1291,
+      "y": 111,
+      "width": 84,
+      "height": 76
+    },
+    "area": 3729,
+    "sam_score": 0.9264,
+    "crop_path": "outputs/dronestock_test_fixed/dronestock_central_park/frame_20/crops/segment_2.png"
+  },
+  {
+    "segment_id": 3,
+    "bbox": {
+      "x": 1330,
+      "y": 572,
+      "width": 88,
+      "height": 147
+    },
+    "area": 8800,
+    "sam_score": 0.9263,
+    "crop_path": "outputs/dronestock_test_fixed/dronestock_central_park/frame_20/crops/segment_3.png"
+  },
+  {
+    "segment_id": 4,
+    "bbox": {
+      "x": 1577,
+      "y": 111,
+      "width": 102,
+      "height": 78
+    },
+    "area": 5301,
+    "sam_score": 0.8892,
+    "crop_path": "outputs/dronestock_test_fixed/dronestock_central_park/frame_20/crops/segment_4.png"
+  }
+]
